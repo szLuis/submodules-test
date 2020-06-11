@@ -9,6 +9,11 @@ const actores = [{
   'nombre': 'Kate',
   'apellido': 'Winslet',
   'ocupacion': 'Actriz'
+},
+{
+  'nombre': 'Charlize',
+  'apellido': 'Theron',
+  'ocupacion': 'Actriz'
 }]
 
 for (const actor of actores) {

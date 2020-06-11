@@ -21,4 +21,3 @@ for (const actor of actores) {
   console.log(csv);
 }
 
-//refactoring
